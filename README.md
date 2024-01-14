@@ -10,7 +10,7 @@ This repository is home to a Jupyter notebook that delves into the intricacies o
 
 ## Companion Medium Post
 
-For a thorough exploration of the concepts, methodologies, and insights behind the analyses and codes in this notebook, please refer to my comprehensive Medium post: [Mastering Forecasting: Unveiling the Power of VAR Modeling for Dynamic Time Series Prediction](https://medium.com/@[YourMediumUsername]/mastering-forecasting-unveiling-the-power-of-var-modeling-for-dynamic-time-series-prediction-[UniquePostID]). The post provides an in-depth narrative that complements the technical content of this notebook, ideal for both newcomers and seasoned practitioners in the field of time series forecasting.
+For a thorough exploration of the concepts, methodologies, and insights behind the analyses and codes in this notebook, please refer to my comprehensive Medium post: [Mastering Forecasting: Unveiling the Power of VAR Modeling for Dynamic Time Series Prediction](https://medium.com/@lightpaper/mastering-forecasting-unveiling-the-power-of-var-modeling-for-dynamic-time-series-prediction-1b87a7d63b4b). The post provides an in-depth narrative that complements the technical content of this notebook, ideal for both newcomers and seasoned practitioners in the field of time series forecasting.
 
 ## Getting Started
 
